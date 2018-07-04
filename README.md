@@ -1,8 +1,6 @@
 # embedded project
 
-## 运行环境
-
-### Linux
+## Linux
 
 ```t
 $ mkdir -p build && cd build
@@ -11,9 +9,13 @@ $ make
 $ ./gdb.sh
 ```
 
-### Windows
+## Windows
 
 ```t
 $ cmake -G "MinGW Makefiles" -DSAMPLE=hello ..
 $ mingw32-make.exe
 ```
+
+## board
+![image](https://github.com/xianrenqiu/embedded/blob/master/doc/board/A.jpg)
+![image](https://github.com/xianrenqiu/embedded/blob/master/doc/board/B.jpg)
