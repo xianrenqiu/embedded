@@ -1,0 +1,6 @@
+target remote 192.168.31.41:2331
+monitor reset
+file bin/embedded.elf
+load
+b main
+c
