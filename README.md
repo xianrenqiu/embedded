@@ -18,4 +18,3 @@ $ mingw32-make.exe
 
 ## board
 ![image](https://github.com/xianrenqiu/embedded/blob/master/doc/board/A.jpg)
-![image](https://github.com/xianrenqiu/embedded/blob/master/doc/board/B.jpg)
